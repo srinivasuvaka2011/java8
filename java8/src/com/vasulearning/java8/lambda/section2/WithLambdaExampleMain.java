@@ -28,7 +28,7 @@ public class WithLambdaExampleMain {
 		 * 
 		 *  Let us see how to remember syntax of lambda
 		 *  
-		 *  In above interface method remove method remove method name, return type and access modifier
+		 *  In above interface method remove method name, return type and access modifier
 		    then method will look like as below
 		    () {
 		      System.out.println("Welcome");
@@ -106,7 +106,7 @@ public class WithLambdaExampleMain {
 		 * 
 		 * Answer: No. We can write lambda expression for only functional interface methods
 		 * 
-		 * Let us see functional interface in another section3
+		 * Let us see what is functional interface in our next chapters
 		 */
 		
 	}

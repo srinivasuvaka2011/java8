@@ -1,7 +1,7 @@
 package com.vasulearning.java8.lambda.section1;
 
 /**
- * This class explains how to we implement interface methods
+ * This class explains how we can implement interface methods
  * 1. Anonymous inner class
  * 2. a class by implementing an interface
  * 
